@@ -1,0 +1,5 @@
+         favourite movie: Kill Bill,
+         favourite series: the Office,
+         favourite food: pizza,
+         favourite season: summer,
+         country i`d like to visit: Italy
