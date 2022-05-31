@@ -1,7 +1,7 @@
-bug report structure:
-  "ID number":123,
-  "Name":"CART - Unable to add new item to my cart",
-  "Reporter":"K.Zhiznevskaya",
+bug report structure (with examples):
+  ID number : 123,
+  Name : CART - Unable to add new item to my cart" ,
+  Reporter : K.Zhiznevskaya,
 Summary:When my cart contains one item, I am unable to add a second item via the add to cart button on a product page,
 URL:www.example.com/product/abc,
 Operating System:OS X 10.12.0,
